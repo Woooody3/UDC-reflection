@@ -2,3 +2,6 @@ When would you want to use a remote repository rather than keeping all your work
 
 A. multi-players or during travel.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A. forks is for copying files from GitHub to GitHub; clones is for copying files from GitHub to local or local to local; branches is for copying files from local to local together with a little changes.
