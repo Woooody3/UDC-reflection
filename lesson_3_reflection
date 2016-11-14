@@ -2,6 +2,14 @@ When would you want to use a remote repository rather than keeping all your work
 
 A. multi-players or during travel.
 
+<<<<<<< HEAD
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A. forks is for copying files from GitHub to GitHub; clones is for copying files from GitHub to local or local to local; branches is for copying files from local to local together with a little changes.
+||||||| merged common ancestors
+=======
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+A. when multi-players working, automatical pull would suprise or interupt the local worker.
+>>>>>>> 53ccb75004cb85436646bd388b0273263918224f
