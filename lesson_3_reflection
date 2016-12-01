@@ -2,14 +2,24 @@ When would you want to use a remote repository rather than keeping all your work
 
 A. multi-players or during travel.
 
-<<<<<<< HEAD
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
-
-A. forks is for copying files from GitHub to GitHub; clones is for copying files from GitHub to local or local to local; branches is for copying files from local to local together with a little changes.
-||||||| merged common ancestors
-=======
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
 A. when multi-players working, automatical pull would suprise or interupt the local worker.
->>>>>>> 53ccb75004cb85436646bd388b0273263918224f
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A. forks is for copying files from GitHub to GitHub; clones is for copying files from GitHub to local or local to local; branches is for copying files from local to local together with a little changes.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A. This functions enable team members who work from multiple computers/sites to communicate with each other’s work.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A. I might send the files that every file has different name marked out the change. The easier part is I can finish them by normal file editing without learning the new concept (git add/commit/push/pull etc.); and the harder part is the complexity of storage and likely confused by multiple versions of file, and the difficulty to trace back the change history)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A. I want to make changes in a separate branch when I am not sure they will be working propabaly yet. By doing so, I will not effect the current main version.
+
